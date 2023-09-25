@@ -33,4 +33,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-**Nota:** Este projeto é uma oportunidade para demonstrar suas habilidades em escrita de testes automatizados em uma aplicação React. Sinta-se à vontade para explorar e entre em contato se tiver alguma pergunta ou feedback!
+**Nota:** Este projeto é uma oportunidade para demonstrar minhas habilidades em escrita de testes automatizados em uma aplicação React. Sinta-se à vontade para explorar e entre em contato se tiver alguma pergunta ou feedback!
