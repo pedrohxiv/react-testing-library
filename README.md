@@ -2,7 +2,7 @@
 
 Neste projeto, escrevi testes para uma aplicação React já criada e configurada, utilizando as ferramentas Jest e React Testing Library. Não será necessário realizar configurações adicionais, pois a aplicação já está pronta. A aplicação em questão é uma implementação completa de todos os requisitos da Pokédex. Seu trabalho consistirá em escrever testes que garantam a corretude desses requisitos.
 
-## O que deverá ser desenvolvido
+## O que foi desenvolvido
 
 Para cada requisito listado na aplicação, escrevi testes automatizados que verifiquem sua funcionalidade. Isso inclui o uso de seletores (queries) da React Testing Library para interagir com os componentes, a simulação de eventos, a cobertura de fluxos lógicos assíncronos e a escrita de testes que permitam a refatoração da estrutura dos componentes sem a necessidade de alterações nos testes. Além disso, é fundamental testar a entrada de dados (inputs) de forma abrangente.
 
